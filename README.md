@@ -12,3 +12,14 @@ Local MCP server built with FastMCP, uv, and stdio transport in Asia/Jerusalem t
 
 ## Run
 Set GOOGLE_PRIVATE_DIR, run uv sync, then run uv run python test_server.py and uv run python run_mission.py.
+
+## Screenshots
+
+### 1. Terminal Output
+![Terminal](screenshots/terminal.png)
+
+### 2. Gmail Draft (Unsent)
+![Gmail Draft](screenshots/gmail_draft.png)
+
+### 3. Google Calendar Events
+![Calendar](screenshots/calendar_events.png)
