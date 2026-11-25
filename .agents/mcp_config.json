@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "gmail-calendar": {
+      "command": "uv",
+      "args": ["run", "--directory", "C:\\Users\\inbal\\AI-Course\\L06", "server.py"],
+      "env": {
+        "GOOGLE_PRIVATE_DIR": "C:\\Users\\inbal\\Documents\\שנה ג סמסטר א\\בינה יוצרת\\google_api_project"
+      }
+    }
+  }
+}
